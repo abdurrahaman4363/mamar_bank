@@ -1,0 +1,1256 @@
+[
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "UserBankAccount",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserAddress",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserBankAccount",
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "isExtraImport": true,
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationView",
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "isExtraImport": true,
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginView",
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "isExtraImport": true,
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogoutView",
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "isExtraImport": true,
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserBankAccountUpdateView",
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "isExtraImport": true,
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "FormView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationForm",
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "isExtraImport": true,
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdateForm",
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "isExtraImport": true,
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "environ",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "environ",
+        "description": "environ",
+        "detail": "environ",
+        "documentation": {}
+    },
+    {
+        "label": "HomeView",
+        "importPath": "core.views ",
+        "description": "core.views ",
+        "isExtraImport": true,
+        "detail": "core.views ",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "send_transaction_email",
+        "importPath": "transactions.views",
+        "description": "transactions.views",
+        "isExtraImport": true,
+        "detail": "transactions.views",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "importPath": "transactions.models",
+        "description": "transactions.models",
+        "isExtraImport": true,
+        "detail": "transactions.models",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "importPath": "transactions.models",
+        "description": "transactions.models",
+        "isExtraImport": true,
+        "detail": "transactions.models",
+        "documentation": {}
+    },
+    {
+        "label": "LoginRequiredMixin",
+        "importPath": "django.contrib.auth.mixins",
+        "description": "django.contrib.auth.mixins",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.mixins",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "DEPOSIT",
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "isExtraImport": true,
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "WITHDRAWAL",
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "isExtraImport": true,
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LOAN",
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "isExtraImport": true,
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LOAN_PAID",
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "isExtraImport": true,
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Sum",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "DepositForm",
+        "importPath": "transactions.forms",
+        "description": "transactions.forms",
+        "isExtraImport": true,
+        "detail": "transactions.forms",
+        "documentation": {}
+    },
+    {
+        "label": "WithdrawForm",
+        "importPath": "transactions.forms",
+        "description": "transactions.forms",
+        "isExtraImport": true,
+        "detail": "transactions.forms",
+        "documentation": {}
+    },
+    {
+        "label": "LoanRequestForm",
+        "importPath": "transactions.forms",
+        "description": "transactions.forms",
+        "isExtraImport": true,
+        "detail": "transactions.forms",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMessage",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "EmailMultiAlternatives",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "render_to_string",
+        "importPath": "django.template.loader",
+        "description": "django.template.loader",
+        "isExtraImport": true,
+        "detail": "django.template.loader",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "accounts.migrations.0001_initial",
+        "description": "accounts.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserBankAccount',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "accounts.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "AccountsConfig",
+        "kind": 6,
+        "importPath": "accounts.apps",
+        "description": "accounts.apps",
+        "peekOfCode": "class AccountsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'accounts'",
+        "detail": "accounts.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ACCOUNT_TYPE",
+        "kind": 5,
+        "importPath": "accounts.constants",
+        "description": "accounts.constants",
+        "peekOfCode": "ACCOUNT_TYPE = (\n    ('Savings','Savings'),\n    ('Current','Current'),\n)\nGENDER_TYPE = (\n    ('Male','Male'),\n    ('Female','Female')\n)",
+        "detail": "accounts.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GENDER_TYPE",
+        "kind": 5,
+        "importPath": "accounts.constants",
+        "description": "accounts.constants",
+        "peekOfCode": "GENDER_TYPE = (\n    ('Male','Male'),\n    ('Female','Female')\n)",
+        "detail": "accounts.constants",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationForm",
+        "kind": 6,
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "peekOfCode": "class UserRegistrationForm(UserCreationForm):\n    birth_date = forms.DateField(widget=forms.DateInput(attrs={'type':'date'}))\n    gender = forms.ChoiceField(choices=GENDER_TYPE)\n    account_type = forms.ChoiceField(choices=ACCOUNT_TYPE)\n    street_address = forms.CharField(max_length=100)\n    city = forms.CharField(max_length= 100)\n    postal_code = forms.IntegerField()\n    country = forms.CharField(max_length=100)\n    class Meta:\n        model = User",
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdateForm",
+        "kind": 6,
+        "importPath": "accounts.forms",
+        "description": "accounts.forms",
+        "peekOfCode": "class UserUpdateForm(forms.ModelForm):\n    birth_date = forms.DateField(widget=forms.DateInput(attrs={'type':'date'}))\n    gender = forms.ChoiceField(choices=GENDER_TYPE)\n    account_type = forms.ChoiceField(choices=ACCOUNT_TYPE)\n    street_address = forms.CharField(max_length=100)\n    city = forms.CharField(max_length= 100)\n    postal_code = forms.IntegerField()\n    country = forms.CharField(max_length=100)\n    class Meta:\n        model = User",
+        "detail": "accounts.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserBankAccount",
+        "kind": 6,
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "peekOfCode": "class UserBankAccount(models.Model):\n    user = models.OneToOneField(User, related_name='account', on_delete=models.CASCADE)\n    account_type = models.CharField(max_length=10, choices=ACCOUNT_TYPE)\n    account_no = models.IntegerField(unique=True) # account no duijon user er kokhono same hobe na\n    birth_date = models.DateField(null=True, blank=True)\n    gender = models.CharField(max_length=10, choices=GENDER_TYPE)\n    initial_deposite_date = models.DateField(auto_now_add=True)\n    balance = models.DecimalField(default=0, max_digits=12, decimal_places=2) # ekjon user 12 digit obdi taka rakhte parbe, dui doshomik ghor obdi rakhte parben 1000.50\n    def __str__(self):\n        return str(self.account_no)",
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserAddress",
+        "kind": 6,
+        "importPath": "accounts.models",
+        "description": "accounts.models",
+        "peekOfCode": "class UserAddress(models.Model):\n    user = models.OneToOneField(User, related_name='address', on_delete=models.CASCADE)\n    street_address = models.CharField(max_length=100)\n    city = models.CharField(max_length= 100)\n    postal_code = models.IntegerField()\n    country = models.CharField(max_length=100)\n    def __str__(self):\n        return str(self.user.email)",
+        "detail": "accounts.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "accounts.urls",
+        "description": "accounts.urls",
+        "peekOfCode": "urlpatterns = [\n    path('register/',UserRegistrationView.as_view(),name='register'),\n    path('login/',UserLoginView.as_view(),name='login'),\n    path('logout/',UserLogoutView.as_view(),name='logout'),\n    path('profile/', UserBankAccountUpdateView.as_view(), name='profile' )\n]",
+        "detail": "accounts.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationView",
+        "kind": 6,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "class UserRegistrationView(FormView):\n    template_name = 'accounts/user_registration.html'\n    form_class = UserRegistrationForm\n    success_url = reverse_lazy('home')\n    def form_valid(self,form):\n        print('from views ')\n        print(form.cleaned_data)\n        user = form.save()\n        login(self.request,user)\n        print(user)",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLoginView",
+        "kind": 6,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "class UserLoginView(LoginView):\n    template_name = 'accounts/user_login.html'\n    def get_succcess_url(self):\n        return reverse_lazy('home')\nclass UserLogoutView(LogoutView):\n    def get_success_url(self):\n        if self.request.user.is_authenticated:\n            logout(self.request)\n        return reverse_lazy('home')\nclass UserBankAccountUpdateView(View):",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogoutView",
+        "kind": 6,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "class UserLogoutView(LogoutView):\n    def get_success_url(self):\n        if self.request.user.is_authenticated:\n            logout(self.request)\n        return reverse_lazy('home')\nclass UserBankAccountUpdateView(View):\n    template_name = 'accounts/profile.html'\n    def get(self, request):\n        form = UserUpdateForm(instance=request.user)\n        return render(request, self.template_name, {'form': form})",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserBankAccountUpdateView",
+        "kind": 6,
+        "importPath": "accounts.views",
+        "description": "accounts.views",
+        "peekOfCode": "class UserBankAccountUpdateView(View):\n    template_name = 'accounts/profile.html'\n    def get(self, request):\n        form = UserUpdateForm(instance=request.user)\n        return render(request, self.template_name, {'form': form})\n    def post(self, request):\n        form = UserUpdateForm(request.POST, instance=request.user)\n        if form.is_valid():\n            form.save()\n            return redirect('profile')  # Redirect to the user's profile page",
+        "detail": "accounts.views",
+        "documentation": {}
+    },
+    {
+        "label": "CoreConfig",
+        "kind": 6,
+        "importPath": "core.apps",
+        "description": "core.apps",
+        "peekOfCode": "class CoreConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'core'",
+        "detail": "core.apps",
+        "documentation": {}
+    },
+    {
+        "label": "HomeView",
+        "kind": 6,
+        "importPath": "core.views",
+        "description": "core.views",
+        "peekOfCode": "class HomeView(TemplateView):\n    template_name='index.html'",
+        "detail": "core.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "mamar_bank.asgi",
+        "description": "mamar_bank.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "mamar_bank.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nimport environ\nenv = environ.Env()\nenviron.Env.read_env()\n...\n# Your secret key\nSECRET_KEY = env(\"SECRET_KEY\")\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "env = environ.Env()\nenviron.Env.read_env()\n...\n# Your secret key\nSECRET_KEY = env(\"SECRET_KEY\")\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\n# SECRET_KEY = 'django-insecure-r@k7q&=t9dgzi%10a_4m3mm#6moy!+sdxrtt^u#87$4!b%ze*u'\n# SECURITY WARNING: don't run with debug turned on in production!",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "SECRET_KEY = env(\"SECRET_KEY\")\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\n# SECRET_KEY = 'django-insecure-r@k7q&=t9dgzi%10a_4m3mm#6moy!+sdxrtt^u#87$4!b%ze*u'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'django.contrib.humanize',",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'django.contrib.humanize',\n    'accounts',\n    'core',",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'mamar_bank.urls'",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "ROOT_URLCONF = 'mamar_bank.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'mamar_bank.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\n# DATABASES = {\n#     'default': {\n#         'ENGINE': 'django.db.backends.sqlite3',\n#         'NAME': BASE_DIR / 'db.sqlite3',\n#     }\n# }\n...",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql_psycopg2',\n        'NAME': env(\"DB_NAME\"),\n        'USER': env(\"DB_USER\"),\n        'PASSWORD': env(\"DB_PASSWORD\"),\n        'HOST': env(\"DB_HOST\"),\n        'PORT': env(\"DB_PORT\"),\n    }\n}",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# ngkf rjov cvdz hnyv   = 2 step pass",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# ngkf rjov cvdz hnyv   = 2 step pass\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# ngkf rjov cvdz hnyv   = 2 step pass\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# ngkf rjov cvdz hnyv   = 2 step pass\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\n# EMAIL_HOST_USER = env('EMAIL_HOST_USER')",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# ngkf rjov cvdz hnyv   = 2 step pass\nEMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\n# EMAIL_HOST_USER = env('EMAIL_HOST_USER')\n# EMAIL_HOST_PASSWORD = evn('EMAIL_HOST_PASSWORD')\nEMAIL_HOST_USER = env('EMAIL_HOST_USER')\nEMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'\nEMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\n# EMAIL_HOST_USER = env('EMAIL_HOST_USER')\n# EMAIL_HOST_PASSWORD = evn('EMAIL_HOST_PASSWORD')\nEMAIL_HOST_USER = env('EMAIL_HOST_USER')\nEMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')\n# connect to postgreSQL \n# pip install psycopg2",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "EMAIL_HOST = 'smtp.gmail.com'\nEMAIL_USE_TLS = True\nEMAIL_PORT = 587\n# EMAIL_HOST_USER = env('EMAIL_HOST_USER')\n# EMAIL_HOST_PASSWORD = evn('EMAIL_HOST_PASSWORD')\nEMAIL_HOST_USER = env('EMAIL_HOST_USER')\nEMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')\n# connect to postgreSQL \n# pip install psycopg2",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_PORT = 587\n# EMAIL_HOST_USER = env('EMAIL_HOST_USER')\n# EMAIL_HOST_PASSWORD = evn('EMAIL_HOST_PASSWORD')\nEMAIL_HOST_USER = env('EMAIL_HOST_USER')\nEMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')\n# connect to postgreSQL \n# pip install psycopg2",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "EMAIL_PORT = 587\n# EMAIL_HOST_USER = env('EMAIL_HOST_USER')\n# EMAIL_HOST_PASSWORD = evn('EMAIL_HOST_PASSWORD')\nEMAIL_HOST_USER = env('EMAIL_HOST_USER')\nEMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')\n# connect to postgreSQL \n# pip install psycopg2",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "EMAIL_HOST_USER = env('EMAIL_HOST_USER')\nEMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')\n# connect to postgreSQL \n# pip install psycopg2",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "mamar_bank.settings",
+        "description": "mamar_bank.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = env('EMAIL_HOST_PASSWORD')\n# connect to postgreSQL \n# pip install psycopg2",
+        "detail": "mamar_bank.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "mamar_bank.urls",
+        "description": "mamar_bank.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', HomeView.as_view(),name='home'),\n    path('admin/', admin.site.urls),\n    path('accounts/',include('accounts.urls')),\n    path('transactions/',include('transactions.urls')),\n]",
+        "detail": "mamar_bank.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "mamar_bank.wsgi",
+        "description": "mamar_bank.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "mamar_bank.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "transactions.migrations.0001_initial",
+        "description": "transactions.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('accounts', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Transaction',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "transactions.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "transactions.migrations.0002_alter_transaction_transaction_type",
+        "description": "transactions.migrations.0002_alter_transaction_transaction_type",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('transactions', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='transaction',\n            name='transaction_type',\n            field=models.IntegerField(choices=[(1, 'Deposite'), (2, 'Withdrawal'), (3, 'Loan'), (4, 'Loan Paid')], null=True),\n        ),",
+        "detail": "transactions.migrations.0002_alter_transaction_transaction_type",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionAdmin",
+        "kind": 6,
+        "importPath": "transactions.admin",
+        "description": "transactions.admin",
+        "peekOfCode": "class TransactionAdmin(admin.ModelAdmin):\n    list_display = ['account', 'amount', 'balance_after_transaction', 'transaction_type', 'loan_approve']\n    def save_model(self, request, obj, form, change):\n        obj.account.balance += obj.amount\n        obj.balance_after_transaction = obj.account.balance\n        obj.account.save()\n        send_transaction_email(obj.account.user,obj.amount,'Pay loan Message','transactions/admin_pay_loan_email.html')\n        super().save_model(request, obj, form, change)",
+        "detail": "transactions.admin",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionsConfig",
+        "kind": 6,
+        "importPath": "transactions.apps",
+        "description": "transactions.apps",
+        "peekOfCode": "class TransactionsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'transactions'",
+        "detail": "transactions.apps",
+        "documentation": {}
+    },
+    {
+        "label": "DEPOSIT",
+        "kind": 5,
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "peekOfCode": "DEPOSIT = 1\nWITHDRAWAL = 2\nLOAN = 3\nLOAN_PAID = 4\nTRANSACTION_TYPE = (\n    (DEPOSIT, 'Deposite'),\n    (WITHDRAWAL, 'Withdrawal'),\n    (LOAN, 'Loan'),\n    (LOAN_PAID, 'Loan Paid'),\n)",
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "WITHDRAWAL",
+        "kind": 5,
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "peekOfCode": "WITHDRAWAL = 2\nLOAN = 3\nLOAN_PAID = 4\nTRANSACTION_TYPE = (\n    (DEPOSIT, 'Deposite'),\n    (WITHDRAWAL, 'Withdrawal'),\n    (LOAN, 'Loan'),\n    (LOAN_PAID, 'Loan Paid'),\n)",
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LOAN",
+        "kind": 5,
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "peekOfCode": "LOAN = 3\nLOAN_PAID = 4\nTRANSACTION_TYPE = (\n    (DEPOSIT, 'Deposite'),\n    (WITHDRAWAL, 'Withdrawal'),\n    (LOAN, 'Loan'),\n    (LOAN_PAID, 'Loan Paid'),\n)",
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LOAN_PAID",
+        "kind": 5,
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "peekOfCode": "LOAN_PAID = 4\nTRANSACTION_TYPE = (\n    (DEPOSIT, 'Deposite'),\n    (WITHDRAWAL, 'Withdrawal'),\n    (LOAN, 'Loan'),\n    (LOAN_PAID, 'Loan Paid'),\n)",
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "TRANSACTION_TYPE",
+        "kind": 5,
+        "importPath": "transactions.constants",
+        "description": "transactions.constants",
+        "peekOfCode": "TRANSACTION_TYPE = (\n    (DEPOSIT, 'Deposite'),\n    (WITHDRAWAL, 'Withdrawal'),\n    (LOAN, 'Loan'),\n    (LOAN_PAID, 'Loan Paid'),\n)",
+        "detail": "transactions.constants",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionForm",
+        "kind": 6,
+        "importPath": "transactions.forms",
+        "description": "transactions.forms",
+        "peekOfCode": "class TransactionForm(forms.ModelForm):\n    class Meta:\n        model=Transaction\n        fields = ['amount','transaction_type']\n    # user ke transactions type dekhabo kintu change korthe dibo na tai exta code egulo \n    # jokhon kono object make hobe tokhon kicho ekta kaj korar jonno use kore\n    def __init__(self,*args,**kwargs):\n        self.account = kwargs.pop('account') # buji nai etar kaj ki???\n        super().__init__(*args,**kwargs)\n        self.fields['transaction_type'].disabled = True",
+        "detail": "transactions.forms",
+        "documentation": {}
+    },
+    {
+        "label": "DepositForm",
+        "kind": 6,
+        "importPath": "transactions.forms",
+        "description": "transactions.forms",
+        "peekOfCode": "class DepositForm(TransactionForm):\n    def clean_amount(self): # amount field ke filter korbo\n        min_deposit_amount = 100\n        amount = self.cleaned_data.get('amount') # user er fill up kora form theke amra amount field er value ke niye aslam, 50\n        if amount < min_deposit_amount:\n            raise forms.ValidationError(\n                f'You need to deposit at least {min_deposit_amount} $'\n            )\n        return amount\nclass WithdrawForm(TransactionForm):",
+        "detail": "transactions.forms",
+        "documentation": {}
+    },
+    {
+        "label": "WithdrawForm",
+        "kind": 6,
+        "importPath": "transactions.forms",
+        "description": "transactions.forms",
+        "peekOfCode": "class WithdrawForm(TransactionForm):\n    def clean_amount(self):\n        account = self.account # eta kon account eta koi theke ashtheche?? kemne ashteche??\n        min_withdraw_amount = 500\n        max_withdraw_amount = 20000\n        balance = account.balance # 1000 # balance ta kemne pacche??\n        amount = self.cleaned_data.get('amount')\n        if amount < min_withdraw_amount:\n            raise forms.ValidationError(\n                f'You can withdraw at least {min_withdraw_amount} $'",
+        "detail": "transactions.forms",
+        "documentation": {}
+    },
+    {
+        "label": "LoanRequestForm",
+        "kind": 6,
+        "importPath": "transactions.forms",
+        "description": "transactions.forms",
+        "peekOfCode": "class LoanRequestForm(TransactionForm):\n    def clean_amount(self):  # kono form er kono field ke filter ba update korthe chaile clean_fieldName namok functions use kore korthe hoi\n        amount = self.cleaned_data.get('amount')\n        return amount",
+        "detail": "transactions.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "kind": 6,
+        "importPath": "transactions.models",
+        "description": "transactions.models",
+        "peekOfCode": "class Transaction(models.Model):\n    account = models.ForeignKey(UserBankAccount, related_name = 'transactions',on_delete=models.CASCADE) # ekjon user er multiple transactions hote pare\n    amount = models.DecimalField(decimal_places = 2, max_digits=12)\n    balance_after_transaction = models.DecimalField(decimal_places = 2, max_digits=12)\n    transaction_type = models.IntegerField(choices = TRANSACTION_TYPE,null = True)\n    timestamp = models.DateTimeField(auto_now_add = True)\n    loan_approve = models.BooleanField(default = False)\n    class Meta:\n        ordering = ['timestamp']",
+        "detail": "transactions.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "transactions.urls",
+        "description": "transactions.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"deposit/\", DepositMoneyView.as_view(), name=\"deposit_money\"),\n    path(\"report/\", TransactionReportView.as_view(), name=\"transaction_report\"),\n    path(\"withdraw/\", WithdrawMoneyView.as_view(), name=\"withdraw_money\"),\n    path(\"loan_request/\", LoanRequestView.as_view(), name=\"loan_request\"),\n    path(\"loans/\", LoanListView.as_view(), name=\"loan_list\"),\n    path(\"loans/<int:loan_id>/\", PayLoanView.as_view(), name=\"pay\"),\n]",
+        "detail": "transactions.urls",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionCreateMixin",
+        "kind": 6,
+        "importPath": "transactions.views",
+        "description": "transactions.views",
+        "peekOfCode": "class TransactionCreateMixin(LoginRequiredMixin, CreateView):\n    template_name = 'transactions/transaction_form.html'\n    model = Transaction\n    title = ''\n    success_url = reverse_lazy('transaction_report')\n    def get_form_kwargs(self):\n        kwargs = super().get_form_kwargs()\n        kwargs.update({\n            'account': self.request.user.account\n        })",
+        "detail": "transactions.views",
+        "documentation": {}
+    },
+    {
+        "label": "DepositMoneyView",
+        "kind": 6,
+        "importPath": "transactions.views",
+        "description": "transactions.views",
+        "peekOfCode": "class DepositMoneyView(TransactionCreateMixin):\n    form_class = DepositForm\n    title = 'Deposit'\n    def get_initial(self):\n        initial = {'transaction_type': DEPOSIT}\n        return initial\n    def form_valid(self, form):\n        amount = form.cleaned_data.get('amount')\n        account = self.request.user.account\n        # if not account.initial_deposit_date:",
+        "detail": "transactions.views",
+        "documentation": {}
+    },
+    {
+        "label": "WithdrawMoneyView",
+        "kind": 6,
+        "importPath": "transactions.views",
+        "description": "transactions.views",
+        "peekOfCode": "class WithdrawMoneyView(TransactionCreateMixin):\n    form_class = WithdrawForm\n    title = 'Withdraw Money'\n    def get_initial(self):\n        initial = {'transaction_type': WITHDRAWAL}\n        return initial\n    def form_valid(self, form):\n        amount = form.cleaned_data.get('amount')\n        self.request.user.account.balance -= form.cleaned_data.get('amount')\n        # balance = 300",
+        "detail": "transactions.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoanRequestView",
+        "kind": 6,
+        "importPath": "transactions.views",
+        "description": "transactions.views",
+        "peekOfCode": "class LoanRequestView(TransactionCreateMixin):\n    form_class = LoanRequestForm\n    title = 'Request For Loan'\n    def get_initial(self):\n        initial = {'transaction_type': LOAN}\n        return initial\n    def form_valid(self, form):\n        amount = form.cleaned_data.get('amount')\n        current_loan_count = Transaction.objects.filter(\n            account=self.request.user.account,transaction_type=3,loan_approve=True).count()",
+        "detail": "transactions.views",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionReportView",
+        "kind": 6,
+        "importPath": "transactions.views",
+        "description": "transactions.views",
+        "peekOfCode": "class TransactionReportView(LoginRequiredMixin, ListView):\n    template_name = 'transactions/transaction_report.html'\n    model = Transaction\n    balance = 0 # filter korar pore ba age amar total balance ke show korbe\n    def get_queryset(self):\n        queryset = super().get_queryset().filter(\n            account=self.request.user.account\n        )\n        start_date_str = self.request.GET.get('start_date')\n        end_date_str = self.request.GET.get('end_date')",
+        "detail": "transactions.views",
+        "documentation": {}
+    },
+    {
+        "label": "PayLoanView",
+        "kind": 6,
+        "importPath": "transactions.views",
+        "description": "transactions.views",
+        "peekOfCode": "class PayLoanView(LoginRequiredMixin, View):\n    def get(self, request, loan_id):\n        loan = get_object_or_404(Transaction, id=loan_id)\n        print(loan)\n        if loan.loan_approve:\n            user_account = loan.account\n                # Reduce the loan amount from the user's balance\n                # 5000, 500 + 5000 = 5500\n                # balance = 3000, loan = 5000\n            if loan.amount < user_account.balance:",
+        "detail": "transactions.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoanListView",
+        "kind": 6,
+        "importPath": "transactions.views",
+        "description": "transactions.views",
+        "peekOfCode": "class LoanListView(LoginRequiredMixin,ListView):\n    model = Transaction\n    template_name = 'transactions/loan_request.html'\n    context_object_name = 'loans' # loan list ta ei loans context er moddhe thakbe\n    def get_queryset(self):\n        user_account = self.request.user.account\n        queryset = Transaction.objects.filter(account=user_account,transaction_type=3)\n        print(queryset)\n        return queryset",
+        "detail": "transactions.views",
+        "documentation": {}
+    },
+    {
+        "label": "send_transaction_email",
+        "kind": 2,
+        "importPath": "transactions.views",
+        "description": "transactions.views",
+        "peekOfCode": "def send_transaction_email(user,amount,subject,template):\n    message = render_to_string(template,{\n        'user':user,\n        'amount':amount\n    })\n    send_mail = EmailMultiAlternatives(subject,'',to=[user.email])\n    send_mail.attach_alternative(message,'text/html')\n    send_mail.send()\nclass TransactionCreateMixin(LoginRequiredMixin, CreateView):\n    template_name = 'transactions/transaction_form.html'",
+        "detail": "transactions.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mamar_bank.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
