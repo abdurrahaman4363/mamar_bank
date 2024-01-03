@@ -21,7 +21,8 @@ class UserRegistrationForm(UserCreationForm):
         our_user = super().save(commit=False) # ami database e data save korbo na ekhn
         if commit == True:
             our_user.save() # user model e data save korlam
-            account_type = self.cleaned_data.get('account_type')
+            # account_type = self.cleaned_data.get('account_type')
+            account_type = self.cleaned_data['account_type']
             gender = self.cleaned_data.get('gender')
             postal_code = self.cleaned_data.get('postal_code')
             country = self.cleaned_data.get('country')

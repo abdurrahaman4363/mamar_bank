@@ -98,6 +98,7 @@ class WithdrawMoneyView(TransactionCreateMixin):
         amount = form.cleaned_data.get('amount')
 
         self.request.user.account.balance -= form.cleaned_data.get('amount')
+        print(self.request.user.username,'from withdraw ......................')
         # balance = 300
         # amount = 5000
         self.request.user.account.save(update_fields=['balance'])

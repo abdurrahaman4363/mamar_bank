@@ -482,6 +482,15 @@
         "documentation": {}
     },
     {
+        "label": "dj_database_url",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dj_database_url",
+        "description": "dj_database_url",
+        "detail": "dj_database_url",
+        "documentation": {}
+    },
+    {
         "label": "environ",
         "kind": 6,
         "isExtraImport": true,
@@ -898,7 +907,7 @@
         "kind": 5,
         "importPath": "mamar_bank.settings",
         "description": "mamar_bank.settings",
-        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql_psycopg2',\n        'NAME': env(\"DB_NAME\"),\n        'USER': env(\"DB_USER\"),\n        'PASSWORD': env(\"DB_PASSWORD\"),\n        'HOST': env(\"DB_HOST\"),\n        'PORT': env(\"DB_PORT\"),\n    }\n}",
+        "peekOfCode": "DATABASES = {\n    'default': dj_database_url.config(  \n        default='postgres://mamarbank_xjth_user:WATwLJnLuQoNGnZJCyociuMEzlwhAtBE@dpg-cmal7jn109ks73fg19o0-a.oregon-postgres.render.com/mamarbank_xjth',\n    )\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',",
         "detail": "mamar_bank.settings",
         "documentation": {}
     },
@@ -1195,7 +1204,7 @@
         "kind": 6,
         "importPath": "transactions.views",
         "description": "transactions.views",
-        "peekOfCode": "class WithdrawMoneyView(TransactionCreateMixin):\n    form_class = WithdrawForm\n    title = 'Withdraw Money'\n    def get_initial(self):\n        initial = {'transaction_type': WITHDRAWAL}\n        return initial\n    def form_valid(self, form):\n        amount = form.cleaned_data.get('amount')\n        self.request.user.account.balance -= form.cleaned_data.get('amount')\n        # balance = 300",
+        "peekOfCode": "class WithdrawMoneyView(TransactionCreateMixin):\n    form_class = WithdrawForm\n    title = 'Withdraw Money'\n    def get_initial(self):\n        initial = {'transaction_type': WITHDRAWAL}\n        return initial\n    def form_valid(self, form):\n        amount = form.cleaned_data.get('amount')\n        self.request.user.account.balance -= form.cleaned_data.get('amount')\n        print(self.request.user.username,'from withdraw ......................')",
         "detail": "transactions.views",
         "documentation": {}
     },
